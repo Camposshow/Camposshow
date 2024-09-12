@@ -1,5 +1,6 @@
 - 👋 Olá, prazer Gabriel Campos
 - Graduando em Ciência da Computação-
+- Estou estudando Java, em busca de me tornar um desenvolvedor back-end
 
 
 <!---
