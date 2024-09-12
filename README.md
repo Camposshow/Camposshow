@@ -1,4 +1,4 @@
-- 👋 Hi, Me chamo Gabriel Campos
+- 👋 Hi, me chamo Gabriel Campos
 - Graduando em Ciência da Computação-
 
 
