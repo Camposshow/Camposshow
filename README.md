@@ -1,5 +1,5 @@
 ## Olá eu sou o Gabriel Campos, !Graduando em Ciência da Computação
-Estou estudando Java, em busca de me tornar um desenvolvedor back-end.
+Estou estudando Java, em busca de me tornar um desenvolvedor back-end.<br>
 Irei compartilhar o meu progresso, atividades e projetos
 
 <div style="display: inline_block"><br>
